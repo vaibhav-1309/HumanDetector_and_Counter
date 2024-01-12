@@ -13,9 +13,8 @@ Install the required dependencies using:
 pip install opencv-python imutils
 
 
-##Usage
-Command-line Arguments
--v or --video: Path to a video file for human detection.
--i or --image: Path to an image file for human detection.
--c or --camera: Flag indicating whether to use the camera for real-time detection (true/false).
--o or --output: Path for the output video or directory for output images.
+## Usage-Command-line Arguments
+- -v or --video: Path to a video file for human detection.
+- -i or --image: Path to an image file for human detection.
+- -c or --camera: Flag indicating whether to use the camera for real-time detection (true/false).
+- -o or --output: Path for the output video or directory for output images.
