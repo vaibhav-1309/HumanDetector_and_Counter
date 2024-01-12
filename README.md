@@ -1,4 +1,4 @@
-# Human Detection using HOG Descriptor
+# Human Detection using HOG Descriptor and Counting
 
 This project demonstrates human detection using the Histogram of Oriented Gradients (HOG) descriptor. It utilizes the OpenCV library for computer vision tasks and includes functionalities for detecting humans in images, videos, or through a camera feed.
 
